@@ -1,9 +1,6 @@
-# customer_segmentation.project
+# Customer_Segmentation.project
 Customer segmentation using K-Means clustering to group customers based on their purchasing behaviour used for targeted marketing and business insights
 
-
-
-# Customer Segmentation Using Machine Learning
 
 ##  Project Overview
 Customer segmentation is the process of dividing customers into distinct groups based on similar characteristics.  
